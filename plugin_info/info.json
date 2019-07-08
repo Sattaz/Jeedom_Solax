@@ -1,0 +1,16 @@
+{
+	"id" : "solax",
+	"name" : "Onduleur Solax",
+	"description" : "Plugin pour récupérer les valeurs d'un onduleur Solax",
+	"licence" : "AGPL",
+	"author" : "Sattaz",
+	"require" : "3.2",
+	"category" : "monitoring",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"maxDependancyInstallTime" : 0,
+	"changelog" : "",
+	"documentation" : "",
+	"language" : "fr_FR",
+	"compatibility" : ""
+}
