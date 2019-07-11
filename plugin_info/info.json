@@ -10,7 +10,7 @@
 	"hasOwnDeamon" : false,
 	"maxDependancyInstallTime" : 0,
 	"changelog" : "https://sattaz.github.io/Jeedom_Solax/#language#/changelog",
-	"documentation" : "https://sattaz.github.io/Jeedom_Fronius/#language#/",
+	"documentation" : "https://sattaz.github.io/Jeedom_Solax/#language#/",
 	"language" : "fr_FR",
 	"compatibility" : ""
 }
